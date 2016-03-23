@@ -1,0 +1,12 @@
+{
+  "name": "meteor-force-non-portable",
+  "version": "1.0.0",
+  "description": "A simple package containing an empty .node file to trick Meteor's build system into thinking it's binary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "https://github.com/tmeasday/meteor-force-non-portable",
+  "author": "Tom Coleman",
+  "license": "MIT"
+}
